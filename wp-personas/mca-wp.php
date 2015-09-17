@@ -1,30 +1,30 @@
 <?php
 /*
  * Plugin Name: MCA WP
- * Plugin URI: http://adquisitions.com/mca-wp
- * Description: A small WordPress Persona marketing framework for developers.
+ * Plugin URI: http://brandreadycontent.com/wp-personas
+ * Description: A small WordPress Persona marketing framework to extend Hubspot functionality.
  *
- * Version: 1.0.0
- * Author: Justin Carver
- * Author Email: justin@adquisitions.com
+ * Version: 2.0.3
+ * Author: Brand Ready
+ * Author Email: brandready@gmail.com
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  *
- * MCA WP is distributed under the terms of the
+ * WP-Personas is distributed under the terms of the
  * GNU General Public License as published by the Free Software Foundation,
  * either version 2 of the License, or any later version.
  *
- * MCA WP is distributed in the hope that it will
+ * WP-Personas is distributed in the hope that it will
  * be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with MCA WP.
+ * along with WP-Personas.
  * If not, see <http://www.gnu.org/licenses/>.
  *
- * @package Mca_Wp
- * @author  Justin Carver / Adquisitions
+ * @package WP-Personas
+ * @author  Brand Ready
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
