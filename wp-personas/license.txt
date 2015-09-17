@@ -1,6 +1,6 @@
-MCA WP
+WP-Personas
 
-Copyright 2015 by Justin Carver / Adquisitions
+Copyright 2015 by Adquisitions
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
